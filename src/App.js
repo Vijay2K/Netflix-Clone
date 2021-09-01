@@ -1,11 +1,15 @@
 import React from 'react'
 import Row from './components/Row'
 import requests from './request'
+import Banner from './components/Banner'
+import Navbar from './components/Navbar'
 import './App.css'
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
+      <Navbar />
+      <Banner />
       <Row
         title="NETFLIX ORIGINALS"
         isLargeRow={true}
