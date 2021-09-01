@@ -22,3 +22,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+## Deployed Site
+
+This site is deployed in firebase
+
+Open [https://netflix-clone-c1cd3.web.app/](https://netflix-clone-c1cd3.web.app/) to view the deployed site in the browser.
